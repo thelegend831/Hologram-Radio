@@ -33,7 +33,7 @@ __Present:__ Tyler, Alex.
 
 -   [@ZeroDistraction][ZeroDistraction]
 -   [Tyler Street on YouTube][Tyler]
--   [@HologramRadio][HologramRadio for show updates
+-   [@HologramRadio][HologramRadio] for show updates
 
 ## Subscribe to the Polarized!
 
@@ -47,6 +47,7 @@ __Download:__ [Episode 1: A Systemic Issue of Fear][E1]
 [Donate]: https://hologramradio.org/donate
 [ZeroDistraction]: (https://twitter.com/zerodistraction)
 [Tyler]: https://www.youtube.com/channel/UCMgMGD54yO9l3ejVS7pEYzw
+[HologramRadio]: https://twitter.com/HologramRadio
 [RSS]: http://podcast.hologramradio.org/polarized
 [HologramRadio]: https://twitter.com/HologramRadio
 [E1]: http://podcasts-1.feedpress.co/13760/Polarized-E1.mp3
