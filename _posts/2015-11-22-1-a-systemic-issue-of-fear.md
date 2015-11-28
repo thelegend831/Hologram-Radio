@@ -16,30 +16,28 @@ enclosure:
         audio/mpeg
         
 ---
-__Synopsis:__ This is the debut of Polarized, a weekly podcast where we talk about things that tend to divide the public, right directly down the middle.
-
-Tyler and Alex delve into an important subject: The Syrian refugee crisis.
+__Synopsis:__  This is the debut of Polarized, a weekly podcast where we talk about things that tend to divide the public, right directly down the middle. Tyler and Alex delve into an important subject: The Syrian refugee crisis.
 
 __Duration:__ 52:34:00
 
 __Present:__ Tyler, Alex.
 
-_________
+---
 
 ## Episode Links
 
-- [Contact your hosts for show feedback][Contact]
-- [Show your support and donate to our podcast][Donate]
+-   [Contact your hosts for show feedback][Contact]
+-   [Show your support and donate to our podcast][Donate]
 
 ### Follow your hosts and the show on Twitter
 
-- [@ZeroDistraction][ZeroDistraction]
-- [Tyler Street on YouTube][Tyler]
-- [@HologramRadio][HologramRadio] for show updates
+-   [@ZeroDistraction][ZeroDistraction]
+-   [Tyler Street on YouTube][Tyler]
+-   [@HologramRadio][HologramRadio for show updates
 
 ## Subscribe to the Polarized!
 
-- Get Polarized on via [RSS][RSS].
+-   Get Polarized via [RSS][RSS].
 
 Please take a moment to rate our show in iTunes, even if it’s just a star rating. It really does make a difference in helping us reach a wider audience.
 
@@ -47,8 +45,8 @@ __Download:__ [Episode 1: A Systemic Issue of Fear][E1]
 
 [Contact]: https://hologramradio.org/contact
 [Donate]: https://hologramradio.org/donate
-[ZeroDistraction]: https://twitter.com/zerodistraction
+[ZeroDistraction]: (https://twitter.com/zerodistraction)
 [Tyler]: https://www.youtube.com/channel/UCMgMGD54yO9l3ejVS7pEYzw
-[HologramRadio]: (https://twitter.com/HologramRadio) 
 [RSS]: http://podcast.hologramradio.org/polarized
+[HologramRadio]: https://twitter.com/HologramRadio
 [E1]: http://podcasts-1.feedpress.co/13760/Polarized-E1.mp3
