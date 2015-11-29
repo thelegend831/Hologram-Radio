@@ -47,7 +47,7 @@ _________
 __Download:__ [Episode 20: "A Package for Mr. And Mrs. Linkle"][E20]
 
 [Linkle]: http://www.polygon.com/2015/11/12/9725838/hyrule-warriors-legends-3ds-girl-link-linkle
-[@ZeroDistraction: https://twitter.com/ZeroDistraction
+[@ZeroDistraction]: https://twitter.com/ZeroDistraction
 [@TheImpromptu]: https://twitter.com/TheImpromptu
 [@HologramRadio]: https://twitter.com/HologramRadio
 [iTunes]: https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2
