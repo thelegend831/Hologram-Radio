@@ -24,6 +24,7 @@ audio_file:
         
 ---
 __Synopsis:__ Before Michael could school Alex on Nintendo, once again, talk about Star Wars distracted us (skip to 3:37 for Nintendo).
+
 __Duration:__ 37:45:00
 
 __Present:__ Michael, Alex.
@@ -32,16 +33,26 @@ _________
 
 ## Episode Links
 
-- [Hyrule Warriors Legends for 3DS will include a new female Link, called Linkle](http://www.polygon.com/2015/11/12/9725838/hyrule-warriors-legends-3ds-girl-link-linkle)
+- [Hyrule Warriors Legends for 3DS will include a new female Link, called Linkle][Linkle]
 
 ### Follow your hosts, guests, and the show on Twitter
-- [@ZeroDistraction](https://twitter.com/zerodistraction)
-- [@TheImpromptu](https://twitter.com/theimpromptu) for show updates
+- [@ZeroDistraction][@ZeroDistraction]
+- [@TheImpromptu][@TheImpromptu]
+- [@HologramRadio][@HologramRadio] for updates on other interesting podcasts
 
 ## Subscribe to The Impromptu!
 
-- Get the The Impromptu on [iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2), [Stitcher](http://www.stitcher.com/podcast/the-impromptu), or via [RSS](http://podcast.theimpromptu.net)
+- Get the The Impromptu on [iTunes][iTunes], [Stitcher][Stitcher], or via [RSS][RSS].
 
-__Download:__ [Episode 20: "A Package for Mr. And Mrs. Linkle"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E20.mp3)
+__Download:__ [Episode 20: "A Package for Mr. And Mrs. Linkle"][E20]
 
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+[Linkle]: http://www.polygon.com/2015/11/12/9725838/hyrule-warriors-legends-3ds-girl-link-linkle
+[@ZeroDistraction: https://twitter.com/ZeroDistraction
+[@TheImpromptu]: https://twitter.com/TheImpromptu
+[@HologramRadio]: https://twitter.com/HologramRadio
+[iTunes]: https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2
+[Stitcher]: http://www.stitcher.com/podcast/the-impromptu
+[RSS]: http://podcast.hologramradio.org/theimpromptu
+[E20]: http://podcasts-1.feedpress.co/1071/The.Impromptu.E20.mp3
+
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
