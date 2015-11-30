@@ -14,7 +14,7 @@ Polarized is a weekly podcast where we talk about things that tend to divide the
 
 <strong>Subscribe:</strong> <a href="http://podcast.hologramradio.org/polarized">RSS</a>  | <a href="https://hologramradio.org/polarized">Episodes</a>
 
-<a href="https://hologramradio.org/theimpromptu"><img src="https://hologramradio.org/images/theimpromptu-itunes-300x300.jpg" alt="The Impromptu" width="300" height="300" class="align none size-medium wp-image-106" /></a>
+<a href="https://hologramradio.org/theimpromptu"><img src="https://hologramradio.org/images/The-Impromptu-iTunes-300x300.jpg" alt="The Impromptu" width="300" height="300" class="align none size-medium wp-image-106" /></a>
 
 The Impromptu is a multi-faceted show discussing how technology, art, design and equality converge on topics that matter most to us. From gaming culture to film, and other forms of media, we examine the creative process and how the  decisions we make, shape our perceptions and lives.
 
