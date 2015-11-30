@@ -20,7 +20,7 @@ The Impromptu is a multi-faceted show discussing how technology, art, design and
 
 <strong>Subscribe:</strong> <a href="http://podcast.hologramradio.org/theimpromptu">RSS</a> | <a href="https://hologramradio.org/theimpromptu">Episodes</a>
 
-<a href="https://geo.itunes.apple.com/us/podcast/hologram-radio-the-impromptu/id497617920?mt=2" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+<a href="https://geo.itunes.apple.com/us/podcast/hologram-radio-the-impromptu/id497617920" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
 
 <a href="https://hologramradio.org/covered"><img src="https://hologramradio.org/images/covered_fm-300x300.jpg" alt="COVERED" width="300" height="300" class="align none size-medium wp-image-104" /></a>
 
@@ -28,7 +28,7 @@ COVERED is a bi-weekly podcast hosted by Harry Marks about writers and their boo
 
 <strong>Subscribe:</strong> <a href="http://podcast.hologramradio.org/covered">RSS</a> | <a href="https://hologramradio.org/covered">Episodes</a>
 
-<a href="https://geo.itunes.apple.com/us/podcast/covered-harry-c.-marks-covered/id928958238?mt=2" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+<a href="https://geo.itunes.apple.com/us/podcast/covered-harry-c.-marks-covered/id928958238" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
 
 <a href="https://podcast.hologramradio.org/jemcast"><img src="https://hologramradio.org/images/JEMcast-iTunes-300x300.jpg" alt="JEMcast" width="300" height="300" class="alignnone size-medium wp-image-1567" /></a>
 
@@ -36,4 +36,6 @@ JEMcast is a weekly podcast providing in-depth analysis on every episode of the 
 
 <strong>Subscribe:</strong> <a href="http://podcast.hologramradio.org/jemcast">RSS</a> | <a href="https://hologramradio.org/jemcast">Episodes</a>
 
-<a href="https://geo.itunes.apple.com/us/podcast/hologram-radio-jemcast/id971046630?mt=2" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+<a href="https://geo.itunes.apple.com/us/podcast/hologram-radio-jemcast/id971046630" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+
+<a href=https://itunes.apple.com/ca/podcast/hologram-radio-master-feed/id1063020017" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
