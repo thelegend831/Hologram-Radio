@@ -38,4 +38,10 @@ JEMcast is a weekly podcast providing in-depth analysis on every episode of the 
 
 <a href="https://geo.itunes.apple.com/us/podcast/hologram-radio-jemcast/id971046630" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
 
+<a href="http://podcast.hologramradio.org/master"><img src="https://hologramradio.org/images/Hologram-Radio-Master-iTunes-300x300.jpg" alt="Hologram Radio Master Feed" width="300" height="300" class="alignnone size-medium wp-image-1621" /></a>
+
+This is the master feed for all podcasts on the Hologram Radio.
+
+<strong>Subscribe:</strong> <a href="http://podcast.hologramradio.org/master">RSS</a>
+
 <a href=https://itunes.apple.com/ca/podcast/hologram-radio-master-feed/id1063020017" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
