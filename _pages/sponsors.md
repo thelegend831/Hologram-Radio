@@ -26,10 +26,10 @@ We evenly distribute the commissions made between all hosts on the network.
 
 ### Other sponsors
 
-**FeedPress** is a simple, intuitive, and powerful RSS analytics and podcast hosting platform. Featuring powerful subscriber, podcast download tracking, integrated newsletters, automated publishing to popular social networks such as Twitter and Facebook, a slick drag and drop podcast hosting interface, and everything you need in order to submit an optimized feed to iTunes.
+<a href="https://feed.press/?affid=388"><img src="http://feed.press/images/feedpress@4x.png"></a>
 
-With 250MB of flexible file storage that rolls over monthly, you can easily upload 4 episodes per month. Upgrading storage is easy and affordable, starting at a flat rate of just $20 for 1GB.
+**FeedPress** is a simple, intuitive, and powerful **RSS analytics and podcast hosting platform**. Featuring powerful subscriber, podcast download tracking, integrated newsletters, automated publishing to popular social networks such as Twitter and Facebook, a slick drag and drop podcast hosting interface, and everything you need in order to submit an optimized feed to iTunes.
+
+With 250MB of flexible file storage that rolls over monthly, you can easily upload 4 episodes per month. Upgrading storage is easy and affordable, *starting at a flat rate of just $20 for 1GB*.
 
 [Sign-up today][Sign-up] and try FeedPress on a **14 day trial (no contracts or commitments)**. Once you become a member, you'll receive an extra free month of service.
-
-<a href="https://feed.press/?affid=388"><img src="http://feed.press/images/feedpress@4x.png"></a>
