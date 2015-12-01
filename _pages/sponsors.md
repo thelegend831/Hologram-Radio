@@ -34,6 +34,6 @@ With 250MB of flexible file storage that rolls over monthly, you can easily uplo
 
 [Sign-up today][Sign-up] and try FeedPress on a **14 day trial** (*no contracts or commitments*).
 
-Use promo code **HologramRadio** during checkout to get **10%* off your first year**.
+Use promo code **HologramRadio** during checkout to get **10% off your first year**.
 
 [Sign-up]: https://feed.press/hologramradio
