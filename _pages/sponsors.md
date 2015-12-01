@@ -32,8 +32,21 @@ We evenly distribute the commissions made between all hosts on the network.
 
 With 250MB of flexible file storage that rolls over monthly, you can easily upload 4 episodes per month. Upgrading storage is easy and affordable, *starting at a flat rate of just $20 for 1GB*.
 
+FeedPress now serves *more than 30 million* requests per month and is trusted by many popular blogs and podcasting networks such as: [ESN][ESN], [Mule Radio][Mule], [Unprofessional][Unprofessional], [The New Disruptors][TheNewDisruptors], [Beautiful Pixels][BP], [Inessential][Inessential], [Macgasm][Macgasm], [The Brooks Review][TBR], [512Pixels][512Pixels], [GoodStuff FM], and of course the [Hologram Radio][HR] network.
+
 [Sign-up today][Sign-up] and try FeedPress on a **14 day trial** (*no contracts or commitments*).
 
 Use promo code **HologramRadio** during checkout to get **10% off your first year**.
 
+[ESN]: http://www.esn.fm
+[Mule]: http://www.muleradio.net
+[Unprofessional]: http://unprofesh.com
+[TheNewDisruptors]: http://newdisrupt.org
+[BP]: http://beautifulpixels.com
+[Inessential]: http://inessential.com
+[Macgasm]: http://www.macgasm.net
+[TBR]: http://brooksreview.net
+[512Pixels]: http://www.512pixels.net
+[GoodStuff]: http://goodstuff.fm
+[HR]: https://hologramradio.org
 [Sign-up]: https://feed.press/hologramradio
