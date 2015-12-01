@@ -32,7 +32,7 @@ FeedPress is a simple, intuitive, and powerful **RSS analytics and podcast hosti
 
 With 250MB of flexible file storage that rolls over monthly, you can easily upload 4 episodes per month. Upgrading storage is easy and affordable, *starting at a flat rate of just $20 for 1GB*.
 
-FeedPress now serves *more than 30 million* requests per month and is trusted by many popular blogs and podcasting networks such as: [ESN][ESN], [Mule Radio][Mule], [Unprofessional][Unprofessional], [The New Disruptors][TheNewDisruptors], [Beautiful Pixels][BP], [Inessential][Inessential], [Macgasm][Macgasm], [The Brooks Review][TBR], [512Pixels][512Pixels], [GoodStuff FM], and of course the [Hologram Radio][HR] network.
+FeedPress now serves *more than 30 million* requests per month and is trusted by many popular blogs and podcasting networks such as: [ESN][ESN], [Mule Radio][Mule], [Unprofessional][Unprofessional], [The New Disruptors][TheNewDisruptors], [Beautiful Pixels][BP], [Inessential][Inessential], [Macgasm][Macgasm], [The Brooks Review][TBR], [512Pixels][512Pixels], [GoodStuff FM][GoodStuff], and of course the [Hologram Radio][HR] network.
 
 [Sign-up today][Sign-up] and try FeedPress on a **14 day trial** (*no contracts or commitments*).
 
