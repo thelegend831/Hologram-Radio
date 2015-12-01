@@ -28,7 +28,7 @@ We evenly distribute the commissions made between all hosts on the network.
 
 <a href="https://feed.press/hologramradio"><img src="http://feed.press/images/feedpress@4x.png"></a>
 
-**FeedPress** is a simple, intuitive, and powerful **RSS analytics and podcast hosting platform**. Featuring powerful subscriber, podcast download tracking, integrated newsletters, automated publishing to popular social networks such as Twitter and Facebook, a slick drag and drop podcast hosting interface, and everything you need in order to submit an optimized feed to iTunes.
+FeedPress is a simple, intuitive, and powerful **RSS analytics and podcast hosting platform**. Featuring powerful subscriber, podcast download tracking, integrated newsletters, automated publishing to popular social networks such as Twitter and Facebook, a slick drag and drop podcast hosting interface, and everything you need in order to submit an optimized feed to iTunes.
 
 With 250MB of flexible file storage that rolls over monthly, you can easily upload 4 episodes per month. Upgrading storage is easy and affordable, *starting at a flat rate of just $20 for 1GB*.
 
