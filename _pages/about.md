@@ -17,3 +17,9 @@ The impetus behind creating this podcast network is not one single thing. After 
 Alex felt there was a gap that needed to be filled. The vision for Hologram Radio is to bolster and foster a variety of eclectic and niche shows, featuring a diverse group of talented voices. Alex remains on a journey to discover lesser known podcasts who have been creating great things, but haven't necessarily struck it big with a massive audience.
 
 There should be something for everyone on Hologram Radio. From niche shows covering 80s cartoons, technology, film, and other forms of media, interviews with interesting writers, human rights issues, and beyond.
+
+## Disclosures
+
+Hologram Radio podcasts are hosted and sponsored by [FeedPress][FeedPress], of which, Alex Knight, is employed by.
+
+[FeedPress]: https://feed.press/hologramradio
