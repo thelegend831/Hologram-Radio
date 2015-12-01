@@ -32,6 +32,6 @@ We evenly distribute the commissions made between all hosts on the network.
 
 With 250MB of flexible file storage that rolls over monthly, you can easily upload 4 episodes per month. Upgrading storage is easy and affordable, *starting at a flat rate of just $20 for 1GB*.
 
-[Sign-up today][Sign-up] and try FeedPress on a **14 day trial (no contracts or commitments)**. Once you become a member, you'll receive an **extra free month** of service.
+[Sign-up today][Sign-up] and try FeedPress on a **14 day trial** (*no contracts or commitments*). Once you become a member, you'll receive an **extra free month** of service.
 
 [Sign-up]: https://feed.press/?affid=38
