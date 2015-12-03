@@ -28,6 +28,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ This week Michael and Alex examine the cultural significance of gaming difficulty during the 80s and early 90s and how the art of game making has evolved over the last 20 years.
 
 __Duration:__ 45:17:00
@@ -49,5 +51,3 @@ _________
 - Get the The Impromptu on [iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2), [Stitcher](http://www.stitcher.com/podcast/the-impromptu), or via [RSS](http://podcast.theimpromptu.net)
 
 __Download:__ [Episode 16: "The Zeitgeist of Gaming Difficulty"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E16.m4a)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
