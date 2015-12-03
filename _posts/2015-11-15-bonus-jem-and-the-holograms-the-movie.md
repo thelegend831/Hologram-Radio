@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/jemcast" subscription="https://itunes.apple.com/ca/podcast/jemcast/id971046630?mt=2" ]
+
 __Synopsis:__ In this bonus episode, Alex, Aleen, and Tempest discuss the abysmal Jem and the Holograms live action movie.
 
 TLDR: It stinks.
@@ -71,5 +73,3 @@ __Download:__ [Bonus: Jem and the Holograms - The Movie][Bonus]
 [TuneIn]: http://tunein.com/radio/JEMcast-p733327/
 [RSS]: http://podcast.jemcast.tv
 [Bonus]: http://podcasts-1.feedpress.co/9829/JEMcast-Bonus-Jem-and-the-Holograms-The-Movie.mp3
-
-[smart_podcast_player url="http://podcast.jemcast.tv" subscription="https://itunes.apple.com/ca/podcast/jemcast/id971046630?mt=2" ]
