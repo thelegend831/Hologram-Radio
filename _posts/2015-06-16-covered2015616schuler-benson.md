@@ -9,6 +9,8 @@ permalink: >
   https://hologramradio.org/covered/covered2015616schuler-benson
 published: true
 ---
+[smart_podcast_player url="http://feedpress.me/covered_fm" subscription="https://itunes.apple.com/ca/podcast/covered-harry-c.-marks-covered/id928958238?mt=2" ]
+
 ![](http://static1.squarespace.com/static/561661aee4b089e8995064dc/5616b298e4b0680cb8690634/5616b29ce4b0680cb86906ea/1444328149692/img.jpg)
 
 <div class="image-block-wrapper sql-default-image">![](/universal/images-v6/configuration/no-image.png)</div>
@@ -26,5 +28,3 @@ _The Poor Man's Guide to an Affordable Painless Suicide_ | [Amazon](http://amzn.
 **Books Discussed**
 
 _[A Tree Born Crooked](http://amzn.to/1ejY9SB)_ by Steph Post
-
-[smart_podcast_player url="http://feedpress.me/covered_fm" subscription="https://itunes.apple.com/ca/podcast/covered-harry-c.-marks-covered/id928958238?mt=2" ]
