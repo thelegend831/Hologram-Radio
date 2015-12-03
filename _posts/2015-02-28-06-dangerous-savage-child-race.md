@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ As Q famously said regarding humanity: "But you can't deny, Captain, that you are still a dangerous, savage, child race." This week we brought comedian Jordan Cooper on the show to discuss some controversial topics, including equality and representation of people in everything from games to business, hypocrisy, and professional complainers on social media.
 
 __Duration:__ 2:00:55
@@ -47,5 +49,3 @@ _________
 - [The Impromptu in iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2)
 
 __Download:__ [Episode 6: "Dangerous, Savage, Child Race: Part 1"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E06.mp3)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
