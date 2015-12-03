@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ Alex eases listeners into a *very* brief conversation about Apple Watch by trolling everyone with the sad Jean-Luc Picard flute song. Skip to the 22 minute mark if you care to move past that discussion. 
 
 We also broach the subject of Daredevil's incredible Netflix debut and Batman's comic faithful suit in the 2016 Batman v Superman movie.
@@ -49,5 +51,3 @@ _________
 - [The Impromptu in iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2)
 
 __Download:__ [Episode 12: "Avocados at Law"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E12.mp3)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
