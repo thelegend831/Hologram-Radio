@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/jemcast" subscription="https://itunes.apple.com/ca/podcast/jemcast/id971046630?mt=2" ]
+
 __Synopsis:__ Alex, Aleen, and Tempest are unbelievably disappointed by the Jem movie trailer. Please join us for a brief intermission where we discuss all of the things wrong with it. This is likely the most in-depth breakdown of the trailer you'll find!
 
 __Duration:__ 24:18
@@ -64,5 +66,3 @@ __Download:__ [Intermission: “The Abominable Jem Movie Trailer”][Intermissio
 [iTunes]: https://itunes.apple.com/ca/podcast/jemcast/id971046630
 [Stitcher]: http://www.stitcher.com/podcast/jemcast
 [Intermission]: http://podcasts-1.feedpress.co/9829/JEMcast-The-Abominable-Jem-Movie-Trailer.mp3
-
-[smart_podcast_player url="http://podcast.jemcast.tv" subscription="https://itunes.apple.com/ca/podcast/jemcast/id971046630?mt=2" ]
