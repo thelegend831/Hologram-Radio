@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ Michael and Alex, after recovering from the Easter break talk about the better than expected Tomb Raider reboot sales, Bloodborne (groan), the new Atari Netflix documentary, Star Wars being released digitally, Apple acquiring search start-up Ottocat, and some of the exciting new 4k TVs from Samsung. Oh, and a quick nerd explosion about how awesome the new Deadpool movie is looking (based purely on the costume and leaked set videos).
 
 __Duration:__ 1:13:11
@@ -51,5 +53,3 @@ _________
 - [The Impromptu in iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2)
 
 __Download:__ [Episode 11: "What Is Fluoroelastomer?"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E11.mp3)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
