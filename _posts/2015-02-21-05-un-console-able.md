@@ -26,6 +26,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ Get ready for a long but worthwhile episode of <strike>Unconsoleable</strike> The Impromptu, with special guests Anna Tarkov and and Jessica Dennis!
 
 This episode is a bit of a snafu because Alex screwed up his audio track and we had to scrap it. This means the audio quality takes an unfortunate nose dive as we had to use the master track from Audio Hijack for Alex, Anna, and Jessica (hence why their voices come out of the right channel and Michael's out of the left). We grovel at your feet and apologize profusely for this. Episode 6 will be back up to our usual ridiculously high production standards.
@@ -69,5 +71,3 @@ _________
 - [The Impromptu in iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2)
 
 __Download:__ [Episode 5: "Un Console Able"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E05.mp3)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
