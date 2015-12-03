@@ -9,6 +9,8 @@ permalink: >
   https://hologramradio.org/covered/covered-book-club-1-the-life-changing-magic-of-tidying-up-with-ann-kingman
 published: true
 ---
+[smart_podcast_player url="http://feedpress.me/covered_fm" subscription="https://itunes.apple.com/ca/podcast/covered-harry-c.-marks-covered/id928958238?mt=2" ]
+
 ![](http://static1.squarespace.com/static/561661aee4b089e8995064dc/5616b298e4b0680cb8690634/5616b29de4b0680cb8690716/1444328150641/img.jpg)
 
 Harry welcomes fellow podcaster Ann Kingman to the show to discuss Marie Kondo's _The Life-Changing Magic of Tidying Up_, including how they've tackled cleaning their own homes after reading the book, why the book has taken off like a rocket, and whether it truly is as life-changing as the title would lead one to believe.
@@ -26,5 +28,3 @@ _The Life-Changing Magic of Tidying Up_ by Marie Kondo - [Amazon](http://www.ama
 [Ann Kingman on Twitter](http://twitter.com/annkingman)
 
 Books on the Nightstand - [Website](http://booksonthenightstand.com) | [Twitter](https://twitter.com/BksOnNightstand) | [iTunes](https://itunes.apple.com/us/podcast/books-on-the-nightstand/id278076085?mt=2)
-
-[smart_podcast_player url="http://feedpress.me/covered_fm" subscription="https://itunes.apple.com/ca/podcast/covered-harry-c.-marks-covered/id928958238?mt=2" ]
