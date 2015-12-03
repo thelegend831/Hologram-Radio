@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ Aleen from [Less Than Or Equal](https://itunes.apple.com/ca/podcast/less-than-or-equal/id890268267?mt=2) podcast joins us once again. We discussed a variety of interesting topics, from the Konami/Kojima disaster, Black Widow being erased from her own scene in the official toy line, Assassin's Creed gets a female protagonist, the awful 1979 and 1990 Captain American movies, and finally a quick look to the past with the Philips CD-i console and Sega Genesis/CD/32x disaster.
 
 ![Red Skull](http://theimpromptu.net/wp-content/uploads/2015/05/red-skull-from-1990-captain-america.jpg)
@@ -60,5 +62,3 @@ _________
 - [The Impromptu in iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2)
 
 __Download:__ [Episode 13: "I've Been Sitting in The Sun All Day"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E13.m4a)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
