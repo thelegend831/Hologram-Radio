@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ What is Nintendo's core competency? Michael and Alex try to provide some analysis on current events, what's at stake, and if Nintendo is going to pull themselves out of the mess they're in. Also, what does Apple TV mean for gaming and Nintendo? Tune in to find out.
 
 __Duration:__ 54:46:00
@@ -44,5 +46,3 @@ _________
 - Get the The Impromptu on [iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2), [Stitcher](http://www.stitcher.com/podcast/the-impromptu), or via [RSS](http://podcast.theimpromptu.net)
 
 __Download:__ [Episode 19: "If Nintendo Bombs, They're Done"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E19.mp3)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
