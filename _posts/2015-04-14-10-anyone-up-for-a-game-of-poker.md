@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ We're a bit behind in posting episode 10. Alex takes full responsibility for ending up in a food coma after the Easter holiday break.
 
 Michael and Alex start off by watching the new Bond movie trailer: Spectre, which veers into a discussion about how the Bond franchise is now revisiting some classic story elements, retold in a modern way. The bar has been raised with modern story telling, what with the proliferation of incredible shows like Breaking Bad, Game of Thrones, Bloodline, Orange is the New Black, and Daredevil. Even James Bond movies need to have more than just incredible stunts and explosions.
@@ -63,5 +65,3 @@ _________
 - [The Impromptu in iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2)
 
 __Download:__ [Episode 10: "Anyone Up for A Game of Poker"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E10.mp3)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
