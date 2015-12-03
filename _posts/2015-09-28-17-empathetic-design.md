@@ -26,6 +26,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ After an unusually long hiatus, Michael and Alex are back with an impromptu Impromptu episode. We delve into the new iPhones and how the landscape of 4K video on smartphones will change things in the coming years, how Watch OS2 is a big deal, iCloud Photo shortcomings, and how many companies lack empathetic design.
 
 In the last bit of the show, we cover the monumental release of Destiny: The Taken King and the new 2.0 patch (which changes everything).
@@ -52,5 +54,3 @@ _________
 - Get the The Impromptu on [iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2), [Stitcher](http://www.stitcher.com/podcast/the-impromptu), or via [RSS](http://podcast.theimpromptu.net)
 
 __Download:__ [Episode 17: "Empathetic Design"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E17.m4a)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
