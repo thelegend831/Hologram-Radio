@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ It's not what you think... really. Clever title aside, in part 1 of 2, Michael and Alex delve into some interesting products announced by Sony at CES as well as Target's short lived presence as a brick and mortar business in Canada. From it's abysmal initial launch, the retailer never quite managed to recover from supply chain and pricing issues, not to mention delivering the products Canadians expected from its American counterpart. It's not just suppliers that are being hurt from the bankruptcy, but over 17,000 employees will be left without jobs. How did this happen? Why did this happen? Could it have been prevented? Also, why do people show at horrible book stores like Chapters (owned by Indigo).
 
 If listening to us chat about failing retail businesses is not your cup of tea, skip straight to 45:45 as we get excited about David Lynch's return to the much beloved Twin Peak series (after a 25 year hiatus).
@@ -53,5 +55,3 @@ _________
 - [The Impromptu in iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2)
 
 __Download:__ [Episode 3: "Beaver Canoe: Part 1"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E03.mp3)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
