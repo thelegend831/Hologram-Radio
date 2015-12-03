@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 ## Synopsis
 
 ### Part 1
@@ -84,5 +86,3 @@ _________
 - [The Impromptu in iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2)
 
 __Download:__ [Episode 7: "We Might Lose People to This"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E07.mp3)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
