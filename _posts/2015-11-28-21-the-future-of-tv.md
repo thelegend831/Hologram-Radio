@@ -23,6 +23,8 @@ enclosure:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ A quick update on Star Wars: The Force Awakens and how going back to old tech may recapture the feeling of the original trilogy. For the majority of episode 21, Michael and Alex delve into the future of TV and how telcos, as we now recognize them, will survive in a world of pay per channel and streaming only.
 
 __Duration:__ 57:16:00
@@ -54,5 +56,3 @@ __Download:__ [Episode 21: "The Future of TV"][E21]
 [Stitcher]: http://www.stitcher.com/podcast/the-impromptu
 [RSS]: http://podcast.hologramradio.org/theimpromptu
 [E21]: http://podcasts-1.feedpress.co/1071/The.Impromptu.E21.mp3
-
-[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
