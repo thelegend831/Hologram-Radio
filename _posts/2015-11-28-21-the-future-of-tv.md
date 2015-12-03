@@ -23,7 +23,7 @@ enclosure:
         audio/mpeg
         
 ---
-[smart_track_player_latest url="http://podcast.hologramradio.org/theimpromptu" social="true" social_twitter="true" social_facebook="true" social_gplus="true" ]
+[smart_track_player_latest url="http://podcast.hologramradio.org/theimpromptu" social="false"]
 
 __Synopsis:__ A quick update on Star Wars: The Force Awakens and how going back to old tech may recapture the feeling of the original trilogy. For the majority of episode 21, Michael and Alex delve into the future of TV and how telcos, as we now recognize them, will survive in a world of pay per channel and streaming only.
 
