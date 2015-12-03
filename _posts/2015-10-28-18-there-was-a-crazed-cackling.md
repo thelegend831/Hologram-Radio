@@ -26,6 +26,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ Michael schools Alex on Guild Wars 2 and Destiny in the first segment. In the later portion of the show, talk about the Power Rangers reboot, how Gotham doesn't make sense, the new Supergirl series, Man of Steel and tie-in with Batman v Superman, DC movie continuity, Marvel movie continuity, Marvel's super foray into serialized shows, and Jessica Jones.
 
 __Duration:__ 57:44:00
@@ -50,5 +52,3 @@ _________
 - Get the The Impromptu on [iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2), [Stitcher](http://www.stitcher.com/podcast/the-impromptu), or via [RSS](http://podcast.theimpromptu.net)
 
 __Download:__ [Episode 18: "There Was A Crazed Cackling"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E18.mp3)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
