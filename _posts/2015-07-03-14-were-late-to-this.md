@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ Michael and Alex come back after a hiatus with an incredibly overdue (late) episode covering WWDC, E3, and the future of gaming with respect to VR.
 
 __Duration:__ 1:02:06
@@ -54,5 +56,3 @@ _________
 - [The Impromptu in iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2)
 
 __Download:__ [Episode 14: "We're Late To This"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E14.m4a)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
