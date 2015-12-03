@@ -26,6 +26,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ During the first 15 minutes of part 2: "Beaver Canoe," Michael and Alex discuss the far super fan edit of Star Wars, episodes 4, 5, and 6 (Han shot first), the gorgeous looking Star Trek TNG remaster, Star Trek Voyager, and how Babylon 5 needs to be remastered (badly).
 
 The final act veers into discussing some of the amazing games we've been playing lately: namely Shadow of Mordor and Danganronpa 1 and 2. Alex brings up how much turn-based fighting creates more work. Will he be able to get through any JRPG?
@@ -60,5 +62,3 @@ _________
 - [The Impromptu in iTunes](https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2)
 
 __Download:__ [Episode 4: "Beaver Canoe: Part 2"](http://podcasts-1.feedpress.co/1071/The.Impromptu.E04.mp3)
-
-[smart_podcast_player url="http://podcast.theimpromptu.net/" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
