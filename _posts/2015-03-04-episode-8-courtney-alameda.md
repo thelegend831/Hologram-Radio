@@ -9,6 +9,8 @@ permalink: >
   https://hologramradio.org/covered/episode-8-courtney-alameda
 published: true
 ---
+[smart_podcast_player url="http://feedpress.me/covered_fm" subscription="https://itunes.apple.com/ca/podcast/covered-harry-c.-marks-covered/id928958238?mt=2" ]
+
 ![](http://static1.squarespace.com/static/561661aee4b089e8995064dc/5616b298e4b0680cb8690634/5616b2a0e4b0680cb8690782/1444328149654/img.jpg)
 
 Harry talks with author Courtney Alameda about her new paranormal horror-thriller, _Shutter_, as well as the variety of books that inspired her, the misperceptions people have of horror authors, and dealing with the frustrating question, "What is it like to be a woman who writes horror?"
@@ -48,5 +50,3 @@ _[The Lord of the Rings](http://www.amazon.com/gp/product/0618640150/ref=as_li_t
 _[Dragon Flight](http://www.amazon.com/gp/product/0345335465/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0345335465&linkCode=as2&tag=curiousrat-20&linkId=ZGQ42HXEYHTR6NGL)_ by Anne McCaffrey
 
 _[Skeleton Crew](http://www.amazon.com/gp/product/0451168615/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0451168615&linkCode=as2&tag=curiousrat-20&linkId=IR3PRG622BJVVNMY)_ by Stephen King
-
-[smart_podcast_player url="http://feedpress.me/covered_fm" subscription="https://itunes.apple.com/ca/podcast/covered-harry-c.-marks-covered/id928958238?mt=2" ]
