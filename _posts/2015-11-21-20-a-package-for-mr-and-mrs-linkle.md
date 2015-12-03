@@ -23,6 +23,8 @@ audio_file:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
+
 __Synopsis:__ Before Michael could school Alex on Nintendo, once again, talk about Star Wars distracted us (skip to 3:37 for Nintendo).
 
 __Duration:__ 37:45:00
@@ -54,5 +56,3 @@ __Download:__ [Episode 20: "A Package for Mr. And Mrs. Linkle"][E20]
 [Stitcher]: http://www.stitcher.com/podcast/the-impromptu
 [RSS]: http://podcast.hologramradio.org/theimpromptu
 [E20]: http://podcasts-1.feedpress.co/1071/The.Impromptu.E20.mp3
-
-[smart_podcast_player url="http://podcast.hologramradio.org/theimpromptu" subscription="https://itunes.apple.com/ca/podcast/the-impromptu/id497617920?mt=2" ]
