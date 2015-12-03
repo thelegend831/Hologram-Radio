@@ -9,6 +9,8 @@ permalink: >
   https://hologramradio.org/covered/covered-book-club-1-a-the-life-changing-magic-of-tidying-up-syllabus
 published: true
 ---
+[smart_podcast_player url="http://feedpress.me/covered_fm" subscription="https://itunes.apple.com/ca/podcast/covered-harry-c.-marks-covered/id928958238?mt=2" ]
+
 ![](http://static1.squarespace.com/static/561661aee4b089e8995064dc/5616b298e4b0680cb8690634/56173512e4b0fdd101ff04cc/1444361490806//img.jpg)
 
 I’ve assembled a list of resources to help COVERED listeners prepare for my discussion with fellow podcaster [Ann Kingman](http://twitter.com/annkingman) about Marie Kondo’s _The Life-Changing Magic of Tidying Up_. Below, you’ll find videos and articles, including interviews with the author, as well as how others have applied her techniques to their lives.
@@ -46,5 +48,3 @@ _The Life-Changing Magic of Tidying Up_ by Marie Kondo - [Amazon](http://www.ama
 “[I Tried Bestselling Minimalism Book ‘The Life-Changing Magic of Tidying Up’ and It’s Brilliant (But Also Bullshit)](http://www.styleite.com/living/i-tried-bestselling-minimalism-book-the-life-changing-magic-of-tidying-up-and-its-brilliant-but-also-bullshit/)” - Styleite
 
 “[The Life-Changing Magic of Tidying Up | Real Life Application: Clothes, Part One](http://www.shawphotoco.com/life-changing-magic-tidying-real-life-application-clothes-part-one/)” - Shaw Photography Co.
-
-[smart_podcast_player url="http://feedpress.me/covered_fm" subscription="https://itunes.apple.com/ca/podcast/covered-harry-c.-marks-covered/id928958238?mt=2" ]
