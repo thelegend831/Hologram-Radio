@@ -9,6 +9,8 @@ permalink: >
   https://hologramradio.org/covered/covered-s2e2-taylor-brown-2
 published: true
 ---
+[smart_podcast_player url="http://feedpress.me/covered_fm" subscription="https://itunes.apple.com/ca/podcast/covered-harry-c.-marks-covered/id928958238?mt=2" ]
+
 ![](http://static1.squarespace.com/static/561661aee4b089e8995064dc/5616b298e4b0680cb8690634/5644e6e4e4b0f96c5c53375b/1447356132782/25632620.jpg)
 
 Harry welcomes Taylor Brown to the show to discuss his debut novel, _Fallen Land_. Taylor also talks about his extensive research of the Civil War and Sherman’s march through the South, his experiences with both a small press and a large publisher, and the importance of a routine in writing.
@@ -48,5 +50,3 @@ _[A Little Life](http://amzn.to/1SmHZVP)_ by Hanya Yanagihara
 **Miscellaneous**
 
 [COVERED S1 E14 - Julie WIlson](http://coveredpodcast.com/episodes/2015/10/9/s1e14-julie-wilson)
-
-[smart_podcast_player url="http://feedpress.me/covered_fm" subscription="https://itunes.apple.com/ca/podcast/covered-harry-c.-marks-covered/id928958238?mt=2" ]
