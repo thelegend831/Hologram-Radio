@@ -16,6 +16,8 @@ enclosure:
         audio/mpeg
         
 ---
+[smart_podcast_player url="http://podcast.hologramradio.org/polarized" subscription="https://geo.itunes.apple.com/us/podcast/polarized/id1062994082" ]
+
 __Synopsis:__  This is the debut of Polarized, a weekly podcast where we talk about things that tend to divide the public, right directly down the middle. Tyler and Alex delve into an important subject: The Syrian refugee crisis.
 
 __Duration:__ 52:34:00
